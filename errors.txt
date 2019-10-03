@@ -1,0 +1,7048 @@
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 4
+    data[4] = [12177310]
+    memorized hash    = [37777753172] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+        [2] = -230[MB Poison]
+        [3] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 4
+    data[4] = [12177310]
+    memorized hash    = [37777753172] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+        [2] = -230[MB Poison]
+        [3] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 4
+    data[4] = [12177310]
+    memorized hash    = [37777771477] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+        [3] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 4
+    data[4] = [12177310]
+    memorized hash    = [37777771477] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+        [3] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 4
+    data[4] = [12177310]
+    memorized hash    = [37777007226] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 4
+    data[4] = [12177310]
+    memorized hash    = [37777007226] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 352 in FUCtion: bool StackResize(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 4
+    data[4] = [12177310]
+    memorized hash    = [37777007226] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 366 in FUCtion: bool StackResize(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 8
+    data[8] = [12177310]
+    memorized hash    = [37777755372] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+        [4] = -230[MB Poison]
+        [5] = -230[MB Poison]
+        [6] = -230[MB Poison]
+        [7] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 203 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 8
+    data[8] = [12177310]
+    memorized hash    = [37777755372] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+        [4] = -230[MB Poison]
+        [5] = -230[MB Poison]
+        [6] = -230[MB Poison]
+        [7] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 8
+    data[8] = [12177310]
+    memorized hash    = [37777765525] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+        [5] = -230[MB Poison]
+        [6] = -230[MB Poison]
+        [7] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 8
+    data[8] = [12177310]
+    memorized hash    = [37777765525] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+        [5] = -230[MB Poison]
+        [6] = -230[MB Poison]
+        [7] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 8
+    data[8] = [12177310]
+    memorized hash    = [37777774374] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+        [6] = -230[MB Poison]
+        [7] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 8
+    data[8] = [12177310]
+    memorized hash    = [37777774374] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+        [6] = -230[MB Poison]
+        [7] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 8
+    data[8] = [12177310]
+    memorized hash    = [37776014023] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+        [7] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 8
+    data[8] = [12177310]
+    memorized hash    = [37776014023] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+        [7] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 8
+    data[8] = [12177310]
+    memorized hash    = [37777001512] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 8
+    data[8] = [12177310]
+    memorized hash    = [37777001512] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 352 in FUCtion: bool StackResize(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 8
+    data[8] = [12177310]
+    memorized hash    = [37777001512] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 366 in FUCtion: bool StackResize(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 16
+    data[16] = [12177310]
+    memorized hash    = [632162] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+        [8] = -230[MB Poison]
+        [9] = -230[MB Poison]
+        [10] = -230[MB Poison]
+        [11] = -230[MB Poison]
+        [12] = -230[MB Poison]
+        [13] = -230[MB Poison]
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 203 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 16
+    data[16] = [12177310]
+    memorized hash    = [632162] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+        [8] = -230[MB Poison]
+        [9] = -230[MB Poison]
+        [10] = -230[MB Poison]
+        [11] = -230[MB Poison]
+        [12] = -230[MB Poison]
+        [13] = -230[MB Poison]
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 16
+    data[16] = [12177310]
+    memorized hash    = [671671] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+        [9] = -230[MB Poison]
+        [10] = -230[MB Poison]
+        [11] = -230[MB Poison]
+        [12] = -230[MB Poison]
+        [13] = -230[MB Poison]
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 16
+    data[16] = [12177310]
+    memorized hash    = [671671] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+        [9] = -230[MB Poison]
+        [10] = -230[MB Poison]
+        [11] = -230[MB Poison]
+        [12] = -230[MB Poison]
+        [13] = -230[MB Poison]
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 16
+    data[16] = [12177310]
+    memorized hash    = [37776734340] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+        [10] = -230[MB Poison]
+        [11] = -230[MB Poison]
+        [12] = -230[MB Poison]
+        [13] = -230[MB Poison]
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 16
+    data[16] = [12177310]
+    memorized hash    = [37776734340] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+        [10] = -230[MB Poison]
+        [11] = -230[MB Poison]
+        [12] = -230[MB Poison]
+        [13] = -230[MB Poison]
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 16
+    data[16] = [12177310]
+    memorized hash    = [37776712167] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+        [11] = -230[MB Poison]
+        [12] = -230[MB Poison]
+        [13] = -230[MB Poison]
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 16
+    data[16] = [12177310]
+    memorized hash    = [37776712167] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+        [11] = -230[MB Poison]
+        [12] = -230[MB Poison]
+        [13] = -230[MB Poison]
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 16
+    data[16] = [12177310]
+    memorized hash    = [37777731016] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+        [12] = -230[MB Poison]
+        [13] = -230[MB Poison]
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 16
+    data[16] = [12177310]
+    memorized hash    = [37777731016] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+        [12] = -230[MB Poison]
+        [13] = -230[MB Poison]
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 16
+    data[16] = [12177310]
+    memorized hash    = [771525] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+        [13] = -230[MB Poison]
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 16
+    data[16] = [12177310]
+    memorized hash    = [771525] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+        [13] = -230[MB Poison]
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 16
+    data[16] = [12177310]
+    memorized hash    = [37777012434] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 16
+    data[16] = [12177310]
+    memorized hash    = [37777012434] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 16
+    data[16] = [12177310]
+    memorized hash    = [32223] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+        [15] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 16
+    data[16] = [12177310]
+    memorized hash    = [32223] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+        [15] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 16
+    data[16] = [12177310]
+    memorized hash    = [56052] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 16
+    data[16] = [12177310]
+    memorized hash    = [56052] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 352 in FUCtion: bool StackResize(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 16
+    data[16] = [12177310]
+    memorized hash    = [56052] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 366 in FUCtion: bool StackResize(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [37777207432] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+        [16] = -230[MB Poison]
+        [17] = -230[MB Poison]
+        [18] = -230[MB Poison]
+        [19] = -230[MB Poison]
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        [24] = -230[MB Poison]
+        [25] = -230[MB Poison]
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 203 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [37777207432] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+        [16] = -230[MB Poison]
+        [17] = -230[MB Poison]
+        [18] = -230[MB Poison]
+        [19] = -230[MB Poison]
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        [24] = -230[MB Poison]
+        [25] = -230[MB Poison]
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [37777300101] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+        [17] = -230[MB Poison]
+        [18] = -230[MB Poison]
+        [19] = -230[MB Poison]
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        [24] = -230[MB Poison]
+        [25] = -230[MB Poison]
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [37777300101] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+        [17] = -230[MB Poison]
+        [18] = -230[MB Poison]
+        [19] = -230[MB Poison]
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        [24] = -230[MB Poison]
+        [25] = -230[MB Poison]
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [37777313750] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+        [18] = -230[MB Poison]
+        [19] = -230[MB Poison]
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        [24] = -230[MB Poison]
+        [25] = -230[MB Poison]
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [37777313750] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+        [18] = -230[MB Poison]
+        [19] = -230[MB Poison]
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        [24] = -230[MB Poison]
+        [25] = -230[MB Poison]
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [37777340137] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+        [19] = -230[MB Poison]
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        [24] = -230[MB Poison]
+        [25] = -230[MB Poison]
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [37777340137] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+        [19] = -230[MB Poison]
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        [24] = -230[MB Poison]
+        [25] = -230[MB Poison]
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [37774376726] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        [24] = -230[MB Poison]
+        [25] = -230[MB Poison]
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [37774376726] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        [24] = -230[MB Poison]
+        [25] = -230[MB Poison]
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [1426435] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        [24] = -230[MB Poison]
+        [25] = -230[MB Poison]
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [1426435] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        [24] = -230[MB Poison]
+        [25] = -230[MB Poison]
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [37776436344] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        [24] = -230[MB Poison]
+        [25] = -230[MB Poison]
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [37776436344] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        [24] = -230[MB Poison]
+        [25] = -230[MB Poison]
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [37777477433] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+        [23] = -230[MB Poison]
+        [24] = -230[MB Poison]
+        [25] = -230[MB Poison]
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [37777477433] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+        [23] = -230[MB Poison]
+        [24] = -230[MB Poison]
+        [25] = -230[MB Poison]
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [517422] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+        [24] = -230[MB Poison]
+        [25] = -230[MB Poison]
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [517422] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+        [24] = -230[MB Poison]
+        [25] = -230[MB Poison]
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [37777572231] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+        [25] = -230[MB Poison]
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [37777572231] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+        [25] = -230[MB Poison]
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [37776611100] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [37776611100] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [37777705227] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [37777705227] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [37776733256] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [37776733256] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [37777774065] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [37777774065] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [43174] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [43174] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [116263] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [116263] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+        [31] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [151312] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [151312] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 352 in FUCtion: bool StackResize(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 32
+    data[32] = [12177310]
+    memorized hash    = [151312] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 366 in FUCtion: bool StackResize(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [37773334252] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+        [32] = -230[MB Poison]
+        [33] = -230[MB Poison]
+        [34] = -230[MB Poison]
+        [35] = -230[MB Poison]
+        [36] = -230[MB Poison]
+        [37] = -230[MB Poison]
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 203 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [37773334252] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+        [32] = -230[MB Poison]
+        [33] = -230[MB Poison]
+        [34] = -230[MB Poison]
+        [35] = -230[MB Poison]
+        [36] = -230[MB Poison]
+        [37] = -230[MB Poison]
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [316721] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+        [33] = -230[MB Poison]
+        [34] = -230[MB Poison]
+        [35] = -230[MB Poison]
+        [36] = -230[MB Poison]
+        [37] = -230[MB Poison]
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [316721] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+        [33] = -230[MB Poison]
+        [34] = -230[MB Poison]
+        [35] = -230[MB Poison]
+        [36] = -230[MB Poison]
+        [37] = -230[MB Poison]
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [37775474770] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+        [34] = -230[MB Poison]
+        [35] = -230[MB Poison]
+        [36] = -230[MB Poison]
+        [37] = -230[MB Poison]
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [37775474770] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+        [34] = -230[MB Poison]
+        [35] = -230[MB Poison]
+        [36] = -230[MB Poison]
+        [37] = -230[MB Poison]
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [1545557] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+        [35] = -230[MB Poison]
+        [36] = -230[MB Poison]
+        [37] = -230[MB Poison]
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [1545557] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+        [35] = -230[MB Poison]
+        [36] = -230[MB Poison]
+        [37] = -230[MB Poison]
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [1533546] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+        [36] = -230[MB Poison]
+        [37] = -230[MB Poison]
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [1533546] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+        [36] = -230[MB Poison]
+        [37] = -230[MB Poison]
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [664255] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+        [37] = -230[MB Poison]
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [664255] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+        [37] = -230[MB Poison]
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [37774761364] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+       *[37] = 30
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [37774761364] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+       *[37] = 30
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [12053] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+       *[37] = 30
+       *[38] = 30
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [12053] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+       *[37] = 30
+       *[38] = 30
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [26242] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+       *[37] = 30
+       *[38] = 30
+       *[39] = 30
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [26242] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+       *[37] = 30
+       *[38] = 30
+       *[39] = 30
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [1122051] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+       *[37] = 30
+       *[38] = 30
+       *[39] = 30
+       *[40] = 30
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [1122051] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+       *[37] = 30
+       *[38] = 30
+       *[39] = 30
+       *[40] = 30
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [37775207120] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+       *[37] = 30
+       *[38] = 30
+       *[39] = 30
+       *[40] = 30
+       *[41] = 30
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [37775207120] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+       *[37] = 30
+       *[38] = 30
+       *[39] = 30
+       *[40] = 30
+       *[41] = 30
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [255647] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+       *[37] = 30
+       *[38] = 30
+       *[39] = 30
+       *[40] = 30
+       *[41] = 30
+       *[42] = 30
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [255647] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+       *[37] = 30
+       *[38] = 30
+       *[39] = 30
+       *[40] = 30
+       *[41] = 30
+       *[42] = 30
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [1363076] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+       *[37] = 30
+       *[38] = 30
+       *[39] = 30
+       *[40] = 30
+       *[41] = 30
+       *[42] = 30
+       *[43] = 30
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [1363076] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+       *[37] = 30
+       *[38] = 30
+       *[39] = 30
+       *[40] = 30
+       *[41] = 30
+       *[42] = 30
+       *[43] = 30
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [37777435705] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+       *[37] = 30
+       *[38] = 30
+       *[39] = 30
+       *[40] = 30
+       *[41] = 30
+       *[42] = 30
+       *[43] = 30
+       *[44] = 30
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [37777435705] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+       *[37] = 30
+       *[38] = 30
+       *[39] = 30
+       *[40] = 30
+       *[41] = 30
+       *[42] = 30
+       *[43] = 30
+       *[44] = 30
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [1363076] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+       *[37] = 30
+       *[38] = 30
+       *[39] = 30
+       *[40] = 30
+       *[41] = 30
+       *[42] = 30
+       *[43] = 30
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [255647] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+       *[37] = 30
+       *[38] = 30
+       *[39] = 30
+       *[40] = 30
+       *[41] = 30
+       *[42] = 30
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [37775207120] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+       *[37] = 30
+       *[38] = 30
+       *[39] = 30
+       *[40] = 30
+       *[41] = 30
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 373 in FUCtion: bool NormalizeSize(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 64
+    data[64] = [12177310]
+    memorized hash    = [37775207120] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+       *[37] = 30
+       *[38] = 30
+       *[39] = 30
+       *[40] = 30
+       *[41] = 30
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        [54] = -230[MB Poison]
+        [55] = -230[MB Poison]
+        [56] = -230[MB Poison]
+        [57] = -230[MB Poison]
+        [58] = -230[MB Poison]
+        [59] = -230[MB Poison]
+        [60] = -230[MB Poison]
+        [61] = -230[MB Poison]
+        [62] = -230[MB Poison]
+        [63] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 386 in FUCtion: bool NormalizeSize(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 54
+    data[54] = [12177310]
+    memorized hash    = [164366] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+       *[37] = 30
+       *[38] = 30
+       *[39] = 30
+       *[40] = 30
+       *[41] = 30
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 54
+    data[54] = [12177310]
+    memorized hash    = [37774105357] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+       *[37] = 30
+       *[38] = 30
+       *[39] = 30
+       *[40] = 30
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 54
+    data[54] = [12177310]
+    memorized hash    = [37777135710] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+       *[37] = 30
+       *[38] = 30
+       *[39] = 30
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 54
+    data[54] = [12177310]
+    memorized hash    = [725461] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+       *[37] = 30
+       *[38] = 30
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 54
+    data[54] = [12177310]
+    memorized hash    = [710672] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+       *[37] = 30
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 54
+    data[54] = [12177310]
+    memorized hash    = [604463] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+       *[36] = 30
+        [37] = -230[MB Poison]
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 54
+    data[54] = [12177310]
+    memorized hash    = [37777635114] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+       *[35] = 30
+        [36] = -230[MB Poison]
+        [37] = -230[MB Poison]
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 54
+    data[54] = [12177310]
+    memorized hash    = [572165] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+        [35] = -230[MB Poison]
+        [36] = -230[MB Poison]
+        [37] = -230[MB Poison]
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 373 in FUCtion: bool NormalizeSize(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 54
+    data[54] = [12177310]
+    memorized hash    = [572165] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+        [35] = -230[MB Poison]
+        [36] = -230[MB Poison]
+        [37] = -230[MB Poison]
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        [44] = -230[MB Poison]
+        [45] = -230[MB Poison]
+        [46] = -230[MB Poison]
+        [47] = -230[MB Poison]
+        [48] = -230[MB Poison]
+        [49] = -230[MB Poison]
+        [50] = -230[MB Poison]
+        [51] = -230[MB Poison]
+        [52] = -230[MB Poison]
+        [53] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 386 in FUCtion: bool NormalizeSize(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 44
+    data[44] = [12177310]
+    memorized hash    = [37776440473] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+       *[34] = 30
+        [35] = -230[MB Poison]
+        [36] = -230[MB Poison]
+        [37] = -230[MB Poison]
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 44
+    data[44] = [12177310]
+    memorized hash    = [37774365204] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+       *[33] = 30
+        [34] = -230[MB Poison]
+        [35] = -230[MB Poison]
+        [36] = -230[MB Poison]
+        [37] = -230[MB Poison]
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 44
+    data[44] = [12177310]
+    memorized hash    = [37774356075] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+       *[32] = 30
+        [33] = -230[MB Poison]
+        [34] = -230[MB Poison]
+        [35] = -230[MB Poison]
+        [36] = -230[MB Poison]
+        [37] = -230[MB Poison]
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 44
+    data[44] = [12177310]
+    memorized hash    = [37777203226] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+       *[31] = 30
+        [32] = -230[MB Poison]
+        [33] = -230[MB Poison]
+        [34] = -230[MB Poison]
+        [35] = -230[MB Poison]
+        [36] = -230[MB Poison]
+        [37] = -230[MB Poison]
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 44
+    data[44] = [12177310]
+    memorized hash    = [1234177] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+       *[30] = 30
+        [31] = -230[MB Poison]
+        [32] = -230[MB Poison]
+        [33] = -230[MB Poison]
+        [34] = -230[MB Poison]
+        [35] = -230[MB Poison]
+        [36] = -230[MB Poison]
+        [37] = -230[MB Poison]
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 44
+    data[44] = [12177310]
+    memorized hash    = [37777166710] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+       *[29] = 30
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        [32] = -230[MB Poison]
+        [33] = -230[MB Poison]
+        [34] = -230[MB Poison]
+        [35] = -230[MB Poison]
+        [36] = -230[MB Poison]
+        [37] = -230[MB Poison]
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 44
+    data[44] = [12177310]
+    memorized hash    = [1120001] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        [32] = -230[MB Poison]
+        [33] = -230[MB Poison]
+        [34] = -230[MB Poison]
+        [35] = -230[MB Poison]
+        [36] = -230[MB Poison]
+        [37] = -230[MB Poison]
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 373 in FUCtion: bool NormalizeSize(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 44
+    data[44] = [12177310]
+    memorized hash    = [1120001] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        [32] = -230[MB Poison]
+        [33] = -230[MB Poison]
+        [34] = -230[MB Poison]
+        [35] = -230[MB Poison]
+        [36] = -230[MB Poison]
+        [37] = -230[MB Poison]
+        [38] = -230[MB Poison]
+        [39] = -230[MB Poison]
+        [40] = -230[MB Poison]
+        [41] = -230[MB Poison]
+        [42] = -230[MB Poison]
+        [43] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 386 in FUCtion: bool NormalizeSize(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 34
+    data[34] = [12177310]
+    memorized hash    = [37777647407] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+       *[28] = 30
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        [32] = -230[MB Poison]
+        [33] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 34
+    data[34] = [12177310]
+    memorized hash    = [654240] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+       *[27] = 30
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        [32] = -230[MB Poison]
+        [33] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 34
+    data[34] = [12177310]
+    memorized hash    = [614211] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+       *[26] = 30
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        [32] = -230[MB Poison]
+        [33] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 34
+    data[34] = [12177310]
+    memorized hash    = [37777501322] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+       *[25] = 30
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        [32] = -230[MB Poison]
+        [33] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 34
+    data[34] = [12177310]
+    memorized hash    = [37777505353] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+       *[24] = 30
+        [25] = -230[MB Poison]
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        [32] = -230[MB Poison]
+        [33] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 34
+    data[34] = [12177310]
+    memorized hash    = [1410344] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+       *[23] = 30
+        [24] = -230[MB Poison]
+        [25] = -230[MB Poison]
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        [32] = -230[MB Poison]
+        [33] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 34
+    data[34] = [12177310]
+    memorized hash    = [37776415455] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+       *[22] = 30
+        [23] = -230[MB Poison]
+        [24] = -230[MB Poison]
+        [25] = -230[MB Poison]
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        [32] = -230[MB Poison]
+        [33] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 34
+    data[34] = [12177310]
+    memorized hash    = [1342726] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        [24] = -230[MB Poison]
+        [25] = -230[MB Poison]
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        [32] = -230[MB Poison]
+        [33] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 373 in FUCtion: bool NormalizeSize(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 34
+    data[34] = [12177310]
+    memorized hash    = [1342726] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        [24] = -230[MB Poison]
+        [25] = -230[MB Poison]
+        [26] = -230[MB Poison]
+        [27] = -230[MB Poison]
+        [28] = -230[MB Poison]
+        [29] = -230[MB Poison]
+        [30] = -230[MB Poison]
+        [31] = -230[MB Poison]
+        [32] = -230[MB Poison]
+        [33] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 386 in FUCtion: bool NormalizeSize(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 24
+    data[24] = [12177310]
+    memorized hash    = [37776000134] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+       *[21] = 30
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 24
+    data[24] = [12177310]
+    memorized hash    = [764065] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+       *[20] = 30
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 24
+    data[24] = [12177310]
+    memorized hash    = [37777754316] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+       *[19] = 30
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 24
+    data[24] = [12177310]
+    memorized hash    = [725367] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+       *[18] = 30
+        [19] = -230[MB Poison]
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 24
+    data[24] = [12177310]
+    memorized hash    = [37777657440] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+       *[17] = 30
+        [18] = -230[MB Poison]
+        [19] = -230[MB Poison]
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 24
+    data[24] = [12177310]
+    memorized hash    = [37777651671] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+       *[16] = 30
+        [17] = -230[MB Poison]
+        [18] = -230[MB Poison]
+        [19] = -230[MB Poison]
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 24
+    data[24] = [12177310]
+    memorized hash    = [37776613122] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+       *[15] = 30
+        [16] = -230[MB Poison]
+        [17] = -230[MB Poison]
+        [18] = -230[MB Poison]
+        [19] = -230[MB Poison]
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 24
+    data[24] = [12177310]
+    memorized hash    = [37777573173] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+       *[14] = 30
+        [15] = -230[MB Poison]
+        [16] = -230[MB Poison]
+        [17] = -230[MB Poison]
+        [18] = -230[MB Poison]
+        [19] = -230[MB Poison]
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 24
+    data[24] = [12177310]
+    memorized hash    = [562244] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+       *[13] = 30
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        [16] = -230[MB Poison]
+        [17] = -230[MB Poison]
+        [18] = -230[MB Poison]
+        [19] = -230[MB Poison]
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 24
+    data[24] = [12177310]
+    memorized hash    = [543475] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+       *[12] = 30
+        [13] = -230[MB Poison]
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        [16] = -230[MB Poison]
+        [17] = -230[MB Poison]
+        [18] = -230[MB Poison]
+        [19] = -230[MB Poison]
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 24
+    data[24] = [12177310]
+    memorized hash    = [527026] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+       *[11] = 30
+        [12] = -230[MB Poison]
+        [13] = -230[MB Poison]
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        [16] = -230[MB Poison]
+        [17] = -230[MB Poison]
+        [18] = -230[MB Poison]
+        [19] = -230[MB Poison]
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 24
+    data[24] = [12177310]
+    memorized hash    = [37777452337] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+       *[10] = 30
+        [11] = -230[MB Poison]
+        [12] = -230[MB Poison]
+        [13] = -230[MB Poison]
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        [16] = -230[MB Poison]
+        [17] = -230[MB Poison]
+        [18] = -230[MB Poison]
+        [19] = -230[MB Poison]
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 24
+    data[24] = [12177310]
+    memorized hash    = [505250] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+       *[9] = 30
+        [10] = -230[MB Poison]
+        [11] = -230[MB Poison]
+        [12] = -230[MB Poison]
+        [13] = -230[MB Poison]
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        [16] = -230[MB Poison]
+        [17] = -230[MB Poison]
+        [18] = -230[MB Poison]
+        [19] = -230[MB Poison]
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 24
+    data[24] = [12177310]
+    memorized hash    = [37777433501] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+       *[8] = 30
+        [9] = -230[MB Poison]
+        [10] = -230[MB Poison]
+        [11] = -230[MB Poison]
+        [12] = -230[MB Poison]
+        [13] = -230[MB Poison]
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        [16] = -230[MB Poison]
+        [17] = -230[MB Poison]
+        [18] = -230[MB Poison]
+        [19] = -230[MB Poison]
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 24
+    data[24] = [12177310]
+    memorized hash    = [37776414072] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+       *[7] = 30
+        [8] = -230[MB Poison]
+        [9] = -230[MB Poison]
+        [10] = -230[MB Poison]
+        [11] = -230[MB Poison]
+        [12] = -230[MB Poison]
+        [13] = -230[MB Poison]
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        [16] = -230[MB Poison]
+        [17] = -230[MB Poison]
+        [18] = -230[MB Poison]
+        [19] = -230[MB Poison]
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 24
+    data[24] = [12177310]
+    memorized hash    = [37776405403] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+       *[6] = 30
+        [7] = -230[MB Poison]
+        [8] = -230[MB Poison]
+        [9] = -230[MB Poison]
+        [10] = -230[MB Poison]
+        [11] = -230[MB Poison]
+        [12] = -230[MB Poison]
+        [13] = -230[MB Poison]
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        [16] = -230[MB Poison]
+        [17] = -230[MB Poison]
+        [18] = -230[MB Poison]
+        [19] = -230[MB Poison]
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 24
+    data[24] = [12177310]
+    memorized hash    = [37776422654] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+       *[5] = 30
+        [6] = -230[MB Poison]
+        [7] = -230[MB Poison]
+        [8] = -230[MB Poison]
+        [9] = -230[MB Poison]
+        [10] = -230[MB Poison]
+        [11] = -230[MB Poison]
+        [12] = -230[MB Poison]
+        [13] = -230[MB Poison]
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        [16] = -230[MB Poison]
+        [17] = -230[MB Poison]
+        [18] = -230[MB Poison]
+        [19] = -230[MB Poison]
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 24
+    data[24] = [12177310]
+    memorized hash    = [1356005] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+       *[4] = 50
+        [5] = -230[MB Poison]
+        [6] = -230[MB Poison]
+        [7] = -230[MB Poison]
+        [8] = -230[MB Poison]
+        [9] = -230[MB Poison]
+        [10] = -230[MB Poison]
+        [11] = -230[MB Poison]
+        [12] = -230[MB Poison]
+        [13] = -230[MB Poison]
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        [16] = -230[MB Poison]
+        [17] = -230[MB Poison]
+        [18] = -230[MB Poison]
+        [19] = -230[MB Poison]
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 24
+    data[24] = [12177310]
+    memorized hash    = [37777340752] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+       *[3] = 30
+        [4] = -230[MB Poison]
+        [5] = -230[MB Poison]
+        [6] = -230[MB Poison]
+        [7] = -230[MB Poison]
+        [8] = -230[MB Poison]
+        [9] = -230[MB Poison]
+        [10] = -230[MB Poison]
+        [11] = -230[MB Poison]
+        [12] = -230[MB Poison]
+        [13] = -230[MB Poison]
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        [16] = -230[MB Poison]
+        [17] = -230[MB Poison]
+        [18] = -230[MB Poison]
+        [19] = -230[MB Poison]
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 24
+    data[24] = [12177310]
+    memorized hash    = [37777336223] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+       *[2] = 20
+        [3] = -230[MB Poison]
+        [4] = -230[MB Poison]
+        [5] = -230[MB Poison]
+        [6] = -230[MB Poison]
+        [7] = -230[MB Poison]
+        [8] = -230[MB Poison]
+        [9] = -230[MB Poison]
+        [10] = -230[MB Poison]
+        [11] = -230[MB Poison]
+        [12] = -230[MB Poison]
+        [13] = -230[MB Poison]
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        [16] = -230[MB Poison]
+        [17] = -230[MB Poison]
+        [18] = -230[MB Poison]
+        [19] = -230[MB Poison]
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
+StuckDump with pointer: [12177270]
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Stack "dStack1" [12177270](UNK)
+    {
+    size = 24
+    data[24] = [12177310]
+    memorized hash    = [1353056] 
+        {
+       *[0] = 10
+       *[1] = -230[MB Poison]
+        [2] = -230[MB Poison]
+        [3] = -230[MB Poison]
+        [4] = -230[MB Poison]
+        [5] = -230[MB Poison]
+        [6] = -230[MB Poison]
+        [7] = -230[MB Poison]
+        [8] = -230[MB Poison]
+        [9] = -230[MB Poison]
+        [10] = -230[MB Poison]
+        [11] = -230[MB Poison]
+        [12] = -230[MB Poison]
+        [13] = -230[MB Poison]
+        [14] = -230[MB Poison]
+        [15] = -230[MB Poison]
+        [16] = -230[MB Poison]
+        [17] = -230[MB Poison]
+        [18] = -230[MB Poison]
+        [19] = -230[MB Poison]
+        [20] = -230[MB Poison]
+        [21] = -230[MB Poison]
+        [22] = -230[MB Poison]
+        [23] = -230[MB Poison]
+        }
+err = 2 (UNK)
+    }
+
