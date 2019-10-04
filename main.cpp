@@ -100,13 +100,15 @@ unsigned long long StackHash(DedStack_t* aStack)
     assert(&aStack->SizeStack != NULL);
     assert(&aStack->data != NULL);
 
-    const unsigned long long MaxHashKey = 0xbad1337C;
+    const unsigned long long MaxHashKey = 0x5BD1E995;
 
-	const int ByteShift = 36;
-
-    unsigned long long StackKey = MaxHashKey * aStack->SizeStack;
+	const int ByteShift = 30;
 
     unsigned long long HashSum = 0;
+
+    // initializing HashSum
+
+    HashSum = MaxHashKey ^ aStack->SizeStack;
 
     StackElem_t tmp = 0;
 
