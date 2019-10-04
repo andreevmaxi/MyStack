@@ -11,10 +11,7 @@ int main()
     std::string stkname1 = "stk1";
     stk1.Name = &stkname1;
     StackInit(&stk1);
-    StackPush(&stk1, 10);
-    StackPush(&stk1, -230);
-    StackPush(&stk1, -230);
-    stk1.CanaryLeft = 0;
+    StackPush(&stk1, 16);
     printf("%d", PopStack(&stk1));
 
     StackDestruck(&stk1);
