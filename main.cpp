@@ -22,7 +22,7 @@ struct DedStack_t
     DEB(int CanaryDataLeft);
     StackElem_t* data; // data that needs to be saved
     DEB(int CanaryDataRight);
-    DEB(long long StkHash);
+    DEB(unsigned long long StkHash);
     DEB(int Err);  // number of error !(USED ONLY WHILE DEBUGED)!
     // 0 - all good
     // 1 - if there isn't any memory
@@ -53,7 +53,7 @@ void StuckDestruck(DedStack_t* aStack);
 
 bool StackResize(DedStack_t* aStack);
 
-long long StackHash(DedStack_t* aStack);
+unsigned long long StackHash(DedStack_t* aStack);
 
 int main()
     {
@@ -93,36 +93,75 @@ int main()
     return 0;
     }
 
-long long StackHash(DedStack_t* aStack)
+unsigned long long StackHash(DedStack_t* aStack)
     {
 
     assert(aStack != NULL);
     assert(&aStack->SizeStack != NULL);
+    assert(&aStack->data != NULL);
 
-    long long HashSum = 0;
+    const unsigned long long MaxHashKey = 0xbad1337C;
 
-    HashSum += aStack->NowElem         * (2 + 1);
-    HashSum ^= 0x6090E;
-    HashSum << 2;
+	const int ByteShift = 36;
 
-    HashSum += aStack->SizeStack       * (2 + 3);
-    HashSum ^= 0x6090E;
-    HashSum << 2;
+    unsigned long long StackKey = MaxHashKey * aStack->SizeStack;
 
-    HashSum += aStack->CanaryDataLeft  * (2 + 5);
-    HashSum ^= 0x6090E;
-    HashSum << 2;
+    unsigned long long HashSum = 0;
+
+    StackElem_t tmp = 0;
+
+    // adding NowElem to hash
+
+    tmp = aStack->NowElem;
+    tmp *= MaxHashKey;
+    tmp ^= tmp >> ByteShift;
+    tmp *= MaxHashKey;
+
+    HashSum *= MaxHashKey;
+    HashSum ^= tmp;
+
+    // adding SizeStack to hash
+
+    tmp = aStack->SizeStack;
+    tmp *= MaxHashKey;
+    tmp ^= tmp >> ByteShift;
+    tmp *= MaxHashKey;
+
+    HashSum *= MaxHashKey;
+    HashSum ^= tmp;
+
+    // adding CanaryDataLeft to hash
+
+    tmp = aStack->CanaryDataLeft;
+    tmp *= MaxHashKey;
+    tmp ^= tmp >> ByteShift;
+    tmp *= MaxHashKey;
+
+    HashSum *= MaxHashKey;
+    HashSum ^= tmp;
+
+    // adding all Data to hash
 
     for (int i = 0; i < aStack->SizeStack; ++i)
         {
-        HashSum += *(aStack->data + i) * (2*i + 7);
-        HashSum ^= 0x6090E;
-        HashSum << 2;
+        tmp = aStack->CanaryDataLeft;
+        tmp *= MaxHashKey;
+        tmp ^= tmp >> ByteShift;
+        tmp *= MaxHashKey;
+
+        HashSum *= MaxHashKey;
+        HashSum ^= tmp;
         }
 
-    HashSum += aStack->CanaryDataRight * (2*aStack->SizeStack + 7);
-    HashSum ^= 0x6090E;
-    HashSum << 2;
+    // adding CanaryDataRight to hash
+
+    tmp = aStack->CanaryDataRight;
+    tmp *= MaxHashKey;
+    tmp ^= tmp >> ByteShift;
+    tmp *= MaxHashKey;
+
+    HashSum *= MaxHashKey;
+    HashSum ^= tmp;
 
     return HashSum;
     }
@@ -275,6 +314,7 @@ void DUMP(DedStack_t* aStack, std::string NowFile, int Line, std::string FuncNam
     FILE* f = fopen("errors.txt", "a");
 
     fprintf(f, "StuckDump with pointer: [%o]\n", aStack);
+    fprintf(f, "Printed from: %s in line: %d in FUCtion: %s\n", NowFile.c_str(), Line, FuncName.c_str());
 
     fclose(f);
     f = fopen("errors.txt", "a");
@@ -295,7 +335,6 @@ void DUMP(DedStack_t* aStack, std::string NowFile, int Line, std::string FuncNam
         status = "OK";
         }
 
-    fprintf(f, "Printed from: %s in line: %d in FUCtion: %s\n", NowFile.c_str(), Line, FuncName.c_str());
     fprintf(f, "Stack \"%s\" [%o](%s)\n", (*aStack->Name).c_str(), (int)aStack, status.c_str());
     fprintf(f, "    {\n");
     fprintf(f, "    size = %d\n", aStack->SizeStack);

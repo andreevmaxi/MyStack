@@ -1,10 +1,10 @@
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 4
     data[4] = [12177310]
-    memorized hash    = [37777753172] 
+    memorized hash    = [23520112550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -15,12 +15,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 4
     data[4] = [12177310]
-    memorized hash    = [37777753172] 
+    memorized hash    = [23520112550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -31,12 +31,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 4
     data[4] = [12177310]
-    memorized hash    = [37777771477] 
+    memorized hash    = [22137112550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -47,12 +47,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 4
     data[4] = [12177310]
-    memorized hash    = [37777771477] 
+    memorized hash    = [22137112550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -63,12 +63,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 4
     data[4] = [12177310]
-    memorized hash    = [37777007226] 
+    memorized hash    = [31606112550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -79,12 +79,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 4
     data[4] = [12177310]
-    memorized hash    = [37777007226] 
+    memorized hash    = [31606112550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -95,12 +95,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 352 in FUCtion: bool StackResize(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 391 in FUCtion: bool StackResize(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 4
     data[4] = [12177310]
-    memorized hash    = [37777007226] 
+    memorized hash    = [31606112550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -111,12 +111,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 366 in FUCtion: bool StackResize(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 405 in FUCtion: bool StackResize(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 8
     data[8] = [12177310]
-    memorized hash    = [37777755372] 
+    memorized hash    = [13572752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -131,12 +131,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 203 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 242 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 8
     data[8] = [12177310]
-    memorized hash    = [37777755372] 
+    memorized hash    = [13572752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -151,12 +151,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 8
     data[8] = [12177310]
-    memorized hash    = [37777765525] 
+    memorized hash    = [672752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -171,12 +171,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 8
     data[8] = [12177310]
-    memorized hash    = [37777765525] 
+    memorized hash    = [672752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -191,12 +191,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 8
     data[8] = [12177310]
-    memorized hash    = [37777774374] 
+    memorized hash    = [6272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -211,12 +211,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 8
     data[8] = [12177310]
-    memorized hash    = [37777774374] 
+    memorized hash    = [6272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -231,12 +231,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 8
     data[8] = [12177310]
-    memorized hash    = [37776014023] 
+    memorized hash    = [25672752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -251,12 +251,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 8
     data[8] = [12177310]
-    memorized hash    = [37776014023] 
+    memorized hash    = [25672752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -271,12 +271,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 8
     data[8] = [12177310]
-    memorized hash    = [37777001512] 
+    memorized hash    = [15272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -291,12 +291,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 8
     data[8] = [12177310]
-    memorized hash    = [37777001512] 
+    memorized hash    = [15272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -311,12 +311,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 352 in FUCtion: bool StackResize(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 391 in FUCtion: bool StackResize(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 8
     data[8] = [12177310]
-    memorized hash    = [37777001512] 
+    memorized hash    = [15272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -331,12 +331,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 366 in FUCtion: bool StackResize(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 405 in FUCtion: bool StackResize(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 16
     data[16] = [12177310]
-    memorized hash    = [632162] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -359,12 +359,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 203 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 242 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 16
     data[16] = [12177310]
-    memorized hash    = [632162] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -387,12 +387,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 16
     data[16] = [12177310]
-    memorized hash    = [671671] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -415,12 +415,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 16
     data[16] = [12177310]
-    memorized hash    = [671671] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -443,12 +443,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 16
     data[16] = [12177310]
-    memorized hash    = [37776734340] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -471,12 +471,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 16
     data[16] = [12177310]
-    memorized hash    = [37776734340] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -499,12 +499,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 16
     data[16] = [12177310]
-    memorized hash    = [37776712167] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -527,12 +527,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 16
     data[16] = [12177310]
-    memorized hash    = [37776712167] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -555,12 +555,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 16
     data[16] = [12177310]
-    memorized hash    = [37777731016] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -583,12 +583,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 16
     data[16] = [12177310]
-    memorized hash    = [37777731016] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -611,12 +611,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 16
     data[16] = [12177310]
-    memorized hash    = [771525] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -639,12 +639,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 16
     data[16] = [12177310]
-    memorized hash    = [771525] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -667,12 +667,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 16
     data[16] = [12177310]
-    memorized hash    = [37777012434] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -695,12 +695,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 16
     data[16] = [12177310]
-    memorized hash    = [37777012434] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -723,12 +723,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 16
     data[16] = [12177310]
-    memorized hash    = [32223] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -751,12 +751,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 16
     data[16] = [12177310]
-    memorized hash    = [32223] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -779,12 +779,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 16
     data[16] = [12177310]
-    memorized hash    = [56052] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -807,12 +807,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 16
     data[16] = [12177310]
-    memorized hash    = [56052] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -835,12 +835,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 352 in FUCtion: bool StackResize(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 391 in FUCtion: bool StackResize(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 16
     data[16] = [12177310]
-    memorized hash    = [56052] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -863,12 +863,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 366 in FUCtion: bool StackResize(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 405 in FUCtion: bool StackResize(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [37777207432] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -907,12 +907,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 203 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 242 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [37777207432] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -951,12 +951,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [37777300101] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -995,12 +995,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [37777300101] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -1039,12 +1039,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [37777313750] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -1083,12 +1083,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [37777313750] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -1127,12 +1127,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [37777340137] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -1171,12 +1171,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [37777340137] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -1215,12 +1215,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [37774376726] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -1259,12 +1259,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [37774376726] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -1303,12 +1303,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [1426435] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -1347,12 +1347,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [1426435] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -1391,12 +1391,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [37776436344] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -1435,12 +1435,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [37776436344] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -1479,12 +1479,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [37777477433] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -1523,12 +1523,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [37777477433] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -1567,12 +1567,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [517422] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -1611,12 +1611,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [517422] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -1655,12 +1655,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [37777572231] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -1699,12 +1699,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [37777572231] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -1743,12 +1743,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [37776611100] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -1787,12 +1787,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [37776611100] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -1831,12 +1831,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [37777705227] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -1875,12 +1875,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [37777705227] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -1919,12 +1919,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [37776733256] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -1963,12 +1963,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [37776733256] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -2007,12 +2007,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [37777774065] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -2051,12 +2051,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [37777774065] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -2095,12 +2095,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [43174] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -2139,12 +2139,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [43174] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -2183,12 +2183,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [116263] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -2227,12 +2227,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [116263] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -2271,12 +2271,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [151312] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -2315,12 +2315,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [151312] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -2359,12 +2359,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 352 in FUCtion: bool StackResize(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 391 in FUCtion: bool StackResize(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 32
     data[32] = [12177310]
-    memorized hash    = [151312] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -2403,12 +2403,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 366 in FUCtion: bool StackResize(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 405 in FUCtion: bool StackResize(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [37773334252] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -2479,12 +2479,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 203 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 242 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [37773334252] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -2555,12 +2555,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [316721] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -2631,12 +2631,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [316721] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -2707,12 +2707,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [37775474770] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -2783,12 +2783,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [37775474770] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -2859,12 +2859,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [1545557] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -2935,12 +2935,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [1545557] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -3011,12 +3011,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [1533546] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -3087,12 +3087,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [1533546] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -3163,12 +3163,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [664255] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -3239,12 +3239,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [664255] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -3315,12 +3315,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [37774761364] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -3391,12 +3391,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [37774761364] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -3467,12 +3467,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [12053] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -3543,12 +3543,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [12053] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -3619,12 +3619,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [26242] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -3695,12 +3695,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [26242] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -3771,12 +3771,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [1122051] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -3847,12 +3847,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [1122051] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -3923,12 +3923,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [37775207120] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -3999,12 +3999,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [37775207120] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -4075,12 +4075,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [255647] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -4151,12 +4151,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [255647] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -4227,12 +4227,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [1363076] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -4303,12 +4303,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 198 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 237 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [1363076] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -4379,12 +4379,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 214 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 253 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [37777435705] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -4455,12 +4455,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [37777435705] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -4531,12 +4531,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [1363076] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -4607,12 +4607,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [255647] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -4683,12 +4683,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [37775207120] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -4759,12 +4759,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 373 in FUCtion: bool NormalizeSize(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 412 in FUCtion: bool NormalizeSize(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 64
     data[64] = [12177310]
-    memorized hash    = [37775207120] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -4835,12 +4835,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 386 in FUCtion: bool NormalizeSize(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 425 in FUCtion: bool NormalizeSize(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 54
     data[54] = [12177310]
-    memorized hash    = [164366] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -4901,12 +4901,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 54
     data[54] = [12177310]
-    memorized hash    = [37774105357] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -4967,12 +4967,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 54
     data[54] = [12177310]
-    memorized hash    = [37777135710] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -5033,12 +5033,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 54
     data[54] = [12177310]
-    memorized hash    = [725461] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -5099,12 +5099,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 54
     data[54] = [12177310]
-    memorized hash    = [710672] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -5165,12 +5165,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 54
     data[54] = [12177310]
-    memorized hash    = [604463] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -5231,12 +5231,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 54
     data[54] = [12177310]
-    memorized hash    = [37777635114] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -5297,12 +5297,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 54
     data[54] = [12177310]
-    memorized hash    = [572165] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -5363,12 +5363,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 373 in FUCtion: bool NormalizeSize(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 412 in FUCtion: bool NormalizeSize(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 54
     data[54] = [12177310]
-    memorized hash    = [572165] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -5429,12 +5429,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 386 in FUCtion: bool NormalizeSize(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 425 in FUCtion: bool NormalizeSize(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 44
     data[44] = [12177310]
-    memorized hash    = [37776440473] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -5485,12 +5485,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 44
     data[44] = [12177310]
-    memorized hash    = [37774365204] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -5541,12 +5541,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 44
     data[44] = [12177310]
-    memorized hash    = [37774356075] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -5597,12 +5597,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 44
     data[44] = [12177310]
-    memorized hash    = [37777203226] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -5653,12 +5653,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 44
     data[44] = [12177310]
-    memorized hash    = [1234177] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -5709,12 +5709,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 44
     data[44] = [12177310]
-    memorized hash    = [37777166710] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -5765,12 +5765,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 44
     data[44] = [12177310]
-    memorized hash    = [1120001] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -5821,12 +5821,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 373 in FUCtion: bool NormalizeSize(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 412 in FUCtion: bool NormalizeSize(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 44
     data[44] = [12177310]
-    memorized hash    = [1120001] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -5877,12 +5877,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 386 in FUCtion: bool NormalizeSize(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 425 in FUCtion: bool NormalizeSize(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 34
     data[34] = [12177310]
-    memorized hash    = [37777647407] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -5923,12 +5923,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 34
     data[34] = [12177310]
-    memorized hash    = [654240] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -5969,12 +5969,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 34
     data[34] = [12177310]
-    memorized hash    = [614211] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -6015,12 +6015,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 34
     data[34] = [12177310]
-    memorized hash    = [37777501322] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -6061,12 +6061,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 34
     data[34] = [12177310]
-    memorized hash    = [37777505353] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -6107,12 +6107,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 34
     data[34] = [12177310]
-    memorized hash    = [1410344] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -6153,12 +6153,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 34
     data[34] = [12177310]
-    memorized hash    = [37776415455] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -6199,12 +6199,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 34
     data[34] = [12177310]
-    memorized hash    = [1342726] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -6245,12 +6245,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 373 in FUCtion: bool NormalizeSize(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 412 in FUCtion: bool NormalizeSize(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 34
     data[34] = [12177310]
-    memorized hash    = [1342726] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -6291,12 +6291,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 386 in FUCtion: bool NormalizeSize(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 425 in FUCtion: bool NormalizeSize(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 24
     data[24] = [12177310]
-    memorized hash    = [37776000134] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -6327,12 +6327,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 24
     data[24] = [12177310]
-    memorized hash    = [764065] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -6363,12 +6363,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 24
     data[24] = [12177310]
-    memorized hash    = [37777754316] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -6399,12 +6399,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 24
     data[24] = [12177310]
-    memorized hash    = [725367] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -6435,12 +6435,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 24
     data[24] = [12177310]
-    memorized hash    = [37777657440] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -6471,12 +6471,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 24
     data[24] = [12177310]
-    memorized hash    = [37777651671] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -6507,12 +6507,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 24
     data[24] = [12177310]
-    memorized hash    = [37776613122] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -6543,12 +6543,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 24
     data[24] = [12177310]
-    memorized hash    = [37777573173] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -6579,12 +6579,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 24
     data[24] = [12177310]
-    memorized hash    = [562244] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -6615,12 +6615,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 24
     data[24] = [12177310]
-    memorized hash    = [543475] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -6651,12 +6651,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 24
     data[24] = [12177310]
-    memorized hash    = [527026] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -6687,12 +6687,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 24
     data[24] = [12177310]
-    memorized hash    = [37777452337] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -6723,12 +6723,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 24
     data[24] = [12177310]
-    memorized hash    = [505250] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -6759,12 +6759,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 24
     data[24] = [12177310]
-    memorized hash    = [37777433501] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -6795,12 +6795,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 24
     data[24] = [12177310]
-    memorized hash    = [37776414072] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -6831,12 +6831,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 24
     data[24] = [12177310]
-    memorized hash    = [37776405403] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -6867,12 +6867,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 24
     data[24] = [12177310]
-    memorized hash    = [37776422654] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -6903,12 +6903,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 24
     data[24] = [12177310]
-    memorized hash    = [1356005] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -6939,12 +6939,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 24
     data[24] = [12177310]
-    memorized hash    = [37777340752] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -6975,12 +6975,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 24
     data[24] = [12177310]
-    memorized hash    = [37777336223] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -7011,12 +7011,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177270]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 148 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp in line: 187 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "dStack1" [12177270](UNK)
     {
     size = 24
     data[24] = [12177310]
-    memorized hash    = [1353056] 
+    memorized hash    = [23272752550] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]

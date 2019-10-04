@@ -4,8 +4,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head>
 <body>
 <tt>
-Build started on: <u>04-10-2019 at 02:12.01</u><br />
-Build ended on: <u>04-10-2019 at 02:12.02</u><p />
+Build started on: <u>04-10-2019 at 11:42.37</u><br />
+Build ended on: <u>04-10-2019 at 11:42.38</u><p />
 <b>-------------- Build: Debug in MyStack (compiler: GNU GCC Compiler - Strict + Fast (SINGLE FILES ONLY))---------------</b><br />
 mingw32-g++.exe "C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp" -o bin\Debug\MyStack.exe -mconsole  -Wall -fexceptions  -g  -Wshadow -Winit-self -Wredundant-decls -Wcast-align -Wundef -Wfloat-equal -Winline -Wunreachable-code -Wmissing-declarations -Wmissing-include-dirs -Wswitch-enum -Wswitch-default -Weffc++ -Wmain -Wextra -Wall -g -pipe -fexceptions -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wempty-body -Wformat-security -Wformat=2 -Wignored-qualifiers -Wlogical-op -Wmissing-field-initializers -Wnon-virtual-dtor -Woverloaded-virtual -Wpointer-arith -Wsign-promo -Wstack-usage=8192 -Wstrict-aliasing -Wstrict-null-sentinel -Wtype-limits -Wwrite-strings -D_DEBUG -D_EJUDGE_CLIENT_SIDE -D_EJC -D__slowpoke -D_VORONEZH<br />
 C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp: In function 'int main()':<br />
@@ -21,43 +21,76 @@ C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp: In function 'int main()':<br 
 <font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:63:27: warning: missing initializer for member 'DedStack_t::Err' [-Wmissing-field-initializers]</font><br />
 <font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:63:27: warning: missing initializer for member 'DedStack_t::Name' [-Wmissing-field-initializers]</font><br />
 <font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:63:27: warning: missing initializer for member 'DedStack_t::CanaryRight' [-Wmissing-field-initializers]</font><br />
-C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp: In function 'long long int StackHash(DedStack_t*)':<br />
-<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:106:13: warning: statement has no effect [-Wunused-value]</font><br />
-     HashSum &lt;&lt; 2;<br />
+C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp: In function 'long long unsigned int StackHash(DedStack_t*)':<br />
+<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:116:9: warning: conversion to 'StackElem_t {aka int}' from 'long long unsigned int' may alter its value [-Wconversion]</font><br />
+     tmp *= MaxHashKey;<br />
+         ^<br />
+<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:117:19: warning: right shift count &gt;= width of type [enabled by default]</font><br />
+     tmp ^= tmp &gt;&gt; ByteShift;<br />
+                   ^<br />
+<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:118:9: warning: conversion to 'StackElem_t {aka int}' from 'long long unsigned int' may alter its value [-Wconversion]</font><br />
+     tmp *= MaxHashKey;<br />
+         ^<br />
+<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:126:9: warning: conversion to 'StackElem_t {aka int}' from 'long long unsigned int' may alter its value [-Wconversion]</font><br />
+     tmp *= MaxHashKey;<br />
+         ^<br />
+<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:127:19: warning: right shift count &gt;= width of type [enabled by default]</font><br />
+     tmp ^= tmp &gt;&gt; ByteShift;<br />
+                   ^<br />
+<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:128:9: warning: conversion to 'StackElem_t {aka int}' from 'long long unsigned int' may alter its value [-Wconversion]</font><br />
+     tmp *= MaxHashKey;<br />
+         ^<br />
+<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:136:9: warning: conversion to 'StackElem_t {aka int}' from 'long long unsigned int' may alter its value [-Wconversion]</font><br />
+     tmp *= MaxHashKey;<br />
+         ^<br />
+<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:137:19: warning: right shift count &gt;= width of type [enabled by default]</font><br />
+     tmp ^= tmp &gt;&gt; ByteShift;<br />
+                   ^<br />
+<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:138:9: warning: conversion to 'StackElem_t {aka int}' from 'long long unsigned int' may alter its value [-Wconversion]</font><br />
+     tmp *= MaxHashKey;<br />
+         ^<br />
+<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:148:13: warning: conversion to 'StackElem_t {aka int}' from 'long long unsigned int' may alter its value [-Wconversion]</font><br />
+         tmp *= MaxHashKey;<br />
              ^<br />
-<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:110:13: warning: statement has no effect [-Wunused-value]</font><br />
-     HashSum &lt;&lt; 2;<br />
+<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:149:23: warning: right shift count &gt;= width of type [enabled by default]</font><br />
+         tmp ^= tmp &gt;&gt; ByteShift;<br />
+                       ^<br />
+<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:150:13: warning: conversion to 'StackElem_t {aka int}' from 'long long unsigned int' may alter its value [-Wconversion]</font><br />
+         tmp *= MaxHashKey;<br />
              ^<br />
-<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:114:13: warning: statement has no effect [-Wunused-value]</font><br />
-     HashSum &lt;&lt; 2;<br />
-             ^<br />
-<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:120:17: warning: statement has no effect [-Wunused-value]</font><br />
-         HashSum &lt;&lt; 2;<br />
-                 ^<br />
-<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:125:13: warning: statement has no effect [-Wunused-value]</font><br />
-     HashSum &lt;&lt; 2;<br />
-             ^<br />
+<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:159:9: warning: conversion to 'StackElem_t {aka int}' from 'long long unsigned int' may alter its value [-Wconversion]</font><br />
+     tmp *= MaxHashKey;<br />
+         ^<br />
+<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:160:19: warning: right shift count &gt;= width of type [enabled by default]</font><br />
+     tmp ^= tmp &gt;&gt; ByteShift;<br />
+                   ^<br />
+<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:161:9: warning: conversion to 'StackElem_t {aka int}' from 'long long unsigned int' may alter its value [-Wconversion]</font><br />
+     tmp *= MaxHashKey;<br />
+         ^<br />
+<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:107:24: warning: unused variable 'StackKey' [-Wunused-variable]</font><br />
+     unsigned long long StackKey = MaxHashKey * aStack-&gt;SizeStack;<br />
+                        ^<br />
 C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp: In function 'void DUMP(DedStack_t*, std::string, int, std::string)':<br />
-<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:277:56: warning: format '%o' expects argument of type 'unsigned int', but argument 3 has type 'DedStack_t*' [-Wformat=]</font><br />
+<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:316:56: warning: format '%o' expects argument of type 'unsigned int', but argument 3 has type 'DedStack_t*' [-Wformat=]</font><br />
      fprintf(f, "StuckDump with pointer: [%o]\n", aStack);<br />
                                                         ^<br />
-<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:303:66: warning: format '%o' expects argument of type 'unsigned int', but argument 3 has type 'long long int' [-Wformat=]</font><br />
+<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:342:66: warning: format '%o' expects argument of type 'unsigned int', but argument 3 has type 'long long unsigned int' [-Wformat=]</font><br />
      fprintf(f, "    memorized hash    = [%o] \n", aStack-&gt;StkHash);<br />
                                                                   ^<br />
-<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:306:77: warning: format '%o' expects argument of type 'unsigned int', but argument 3 has type 'long long int' [-Wformat=]</font><br />
+<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:345:77: warning: format '%o' expects argument of type 'unsigned int', but argument 3 has type 'long long unsigned int' [-Wformat=]</font><br />
          fprintf(f, "*!!!hash of stack now = [%o]  !!!*\n", StackHash(aStack));<br />
                                                                              ^<br />
 C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp: In function 'void StuckDestruck(DedStack_t*)':<br />
-<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:341:13: warning: the address of 'bool IsEmptyStack(DedStack_t*)' will always evaluate as 'true' [-Waddress]</font><br />
+<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:380:13: warning: the address of 'bool IsEmptyStack(DedStack_t*)' will always evaluate as 'true' [-Waddress]</font><br />
      while (!IsEmptyStack)<br />
              ^<br />
 C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp: In function 'bool NormalizeSize(DedStack_t*)':<br />
-<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:387:5: warning: no return statement in function returning non-void [-Wreturn-type]</font><br />
+<font color="#0000ff">C:\Users\Maksim\Documents\GitHub\MyStack\main.cpp:426:5: warning: no return statement in function returning non-void [-Wreturn-type]</font><br />
      }<br />
      ^<br />
-Output size is 459,87 KB<br />
-<font color="#0000ff">Process terminated with status 0 (0 minutes, 0 seconds)</font><br />
-<font color="#0000ff">0 errors, 20 warnings (0 minutes, 0 seconds)</font><br />
+Output size is 460,87 KB<br />
+<font color="#0000ff">Process terminated with status 0 (0 minutes, 1 seconds)</font><br />
+<font color="#0000ff">0 errors, 31 warnings (0 minutes, 1 seconds)</font><br />
 </tt>
 </body>
 </html>
