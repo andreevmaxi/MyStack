@@ -1,3 +1,12 @@
+/*!
+* @mainpage
+* This is program that sorts texts
+*/
+
+/*!
+* \file main.cpp
+*/
+
 #include <cstdio>
 #include <cstdlib>
 #include <string>
@@ -19,9 +28,9 @@ struct DedStack_t
     DEB(int CanaryLeft);
     int NowElem; // index of next element in data
     int SizeStack;  // size of used memory
-    DEB(int CanaryDataLeft);
+    DEB(int* CanaryDataLeft);
     StackElem_t* data; // data that needs to be saved
-    DEB(int CanaryDataRight);
+    DEB(int* CanaryDataRight);
     DEB(unsigned long long StkHash);
     DEB(int Err);  // number of error !(USED ONLY WHILE DEBUGED)!
     // 0 - all good
@@ -35,23 +44,138 @@ struct DedStack_t
     DEB(int CanaryRight);
 };
 
+/**
+    \brief NormalizeSize
+    \author andreevmaxi
+	\version 1.0
+	\date october  2019 year
+	\copyright korobcom
+    \details This is function that decreeses size of our stack
+    \return 1 if all good
+    \param[in] aStack pointer on dStack with that we work
+*/
+
 bool NormalizeSize(DedStack_t* aStack);
+
+/**
+    \brief StackInit
+    \author andreevmaxi
+	\version 1.0
+	\date october  2019 year
+	\copyright korobcom
+    \details This is function that initializes our stack
+    \return 1 if all good
+    \param[in] aStack pointer on dStack with that we work
+*/
 
 bool StackInit(DedStack_t* aStack);
 
+/**
+    \brief StackPush
+    \author andreevmaxi
+	\version 1.0
+	\date october  2019 year
+	\copyright korobcom
+    \details This is function that push elements in our stack
+    \return 1 if all good
+    \param[in] aStack pointer on dStack with that we work
+*/
+
 bool StackPush(DedStack_t* str, StackElem_t tmp);
+
+/**
+    \brief ASSERT_OK
+    \author andreevmaxi
+	\version 1.0
+	\date october  2019 year
+	\copyright korobcom
+    \details This is function that verifies our stack
+    \return 1 if all good
+    \param[in] aStack pointer on dStack with that we work
+    \param[in] NowFile file that used this stack
+    \param[in] Line line in file where that stack used
+    \param[in] FuncName function that used stack
+*/
 
 void ASSERT_OK(DedStack_t* aStack, std::string NowFile, int Line, std::string FuncName);
 
+/**
+    \brief DUMP
+    \author andreevmaxi
+	\version 1.0
+	\date october  2019 year
+	\copyright korobcom
+    \details This is function that prints status of our stack
+    \return 1 if all good
+    \param[in] aStack pointer on dStack with that we work
+    \param[in] NowFile file that used this stack
+    \param[in] Line line in file where that stack used
+    \param[in] FuncName function that used stack
+*/
+
 void DUMP(DedStack_t* aStack, std::string NowFile, int Line, std::string FuncName);
+
+/**
+    \brief IsEmptyStack
+    \author andreevmaxi
+	\version 1.0
+	\date october  2019 year
+	\copyright korobcom
+    \details This is function that checks if our stack is empty
+    \return 1 if it's empty and 0 if it's not empty
+    \param[in] aStack pointer on dStack with that we work
+*/
 
 bool IsEmptyStack(DedStack_t* aStack);
 
+/**
+    \brief PopStack
+    \author andreevmaxi
+	\version 1.0
+	\date october  2019 year
+	\copyright korobcom
+    \details This is function that pops an element from our stack
+    \return element of poped element
+    \param[in] aStack pointer on dStack with that we work
+*/
+
 StackElem_t PopStack(DedStack_t* aStack);
+
+/**
+    \brief StuckDestruck
+    \author andreevmaxi
+	\version 1.0
+	\date october  2019 year
+	\copyright korobcom
+    \details This is function that destruckes our stack
+    \param[in] aStack pointer on dStack with that we work
+*/
 
 void StuckDestruck(DedStack_t* aStack);
 
+/**
+    \brief StackResize
+    \author andreevmaxi
+	\version 1.0
+	\date october  2019 year
+	\copyright korobcom
+    \details This is function that resizes our stack
+    \return 1 if all good
+    \param[in] aStack pointer on dStack with that we work
+*/
+
 bool StackResize(DedStack_t* aStack);
+
+/**
+    \brief StackHash
+    \author andreevmaxi
+	\version 1.0
+	\date october  2019 year
+	\copyright korobcom
+    \details This is function that does hash of our stack
+    \return hash of our stack
+    \param[in] aStack pointer on dStack with that we work
+*/
 
 unsigned long long StackHash(DedStack_t* aStack);
 
@@ -66,6 +190,7 @@ int main()
     DEB(dStack1.Name = &TmpName1);
 
     StackInit(&dStack1);
+
     StackPush(&dStack1, 10);
     StackPush(&dStack1, -230);
     StackPush(&dStack1, 20);
@@ -102,7 +227,7 @@ unsigned long long StackHash(DedStack_t* aStack)
 
     const unsigned long long MaxHashKey = 0x5BD1E995;
 
-	const int ByteShift = 30;
+	const int ByteShift = 10;
 
     unsigned long long HashSum = 0;
 
@@ -134,7 +259,7 @@ unsigned long long StackHash(DedStack_t* aStack)
 
     // adding CanaryDataLeft to hash
 
-    tmp = aStack->CanaryDataLeft;
+    tmp = *aStack->CanaryDataLeft;
     tmp *= MaxHashKey;
     tmp ^= tmp >> ByteShift;
     tmp *= MaxHashKey;
@@ -146,7 +271,7 @@ unsigned long long StackHash(DedStack_t* aStack)
 
     for (int i = 0; i < aStack->SizeStack; ++i)
         {
-        tmp = aStack->CanaryDataLeft;
+        tmp = *(aStack->data + i);
         tmp *= MaxHashKey;
         tmp ^= tmp >> ByteShift;
         tmp *= MaxHashKey;
@@ -157,13 +282,30 @@ unsigned long long StackHash(DedStack_t* aStack)
 
     // adding CanaryDataRight to hash
 
-    tmp = aStack->CanaryDataRight;
+    tmp = *aStack->CanaryDataRight;
     tmp *= MaxHashKey;
     tmp ^= tmp >> ByteShift;
     tmp *= MaxHashKey;
 
     HashSum *= MaxHashKey;
     HashSum ^= tmp;
+
+    // adding StackName to hash
+
+    int i = 0;
+
+    while ( *((char*)aStack->Name + i) != '\0')
+        {
+        tmp = (unsigned long long)(*((char*)aStack->Name + i));
+        tmp *= MaxHashKey;
+        tmp ^= tmp >> ByteShift;
+        tmp *= MaxHashKey;
+
+        HashSum *= MaxHashKey;
+        HashSum ^= tmp;
+
+        ++i;
+        }
 
     return HashSum;
     }
@@ -212,11 +354,21 @@ bool StackInit(DedStack_t* aStack)
 
     DEB(aStack->CanaryLeft  = 230);
     DEB(aStack->CanaryRight = 230);
-    DEB(aStack->CanaryDataRight = 230);
-    DEB(aStack->CanaryDataLeft = 230);
     aStack->SizeStack = 4;
-    aStack->data = (StackElem_t*) calloc(aStack->SizeStack, sizeof(StackElem_t));
+
+    #ifdef _DEBUG
+        aStack->data = (StackElem_t*) calloc(aStack->SizeStack + 2, sizeof(StackElem_t));
+    #else
+        aStack->data = (StackElem_t*) calloc(aStack->SizeStack, sizeof(StackElem_t));
+    #endif
+    DEB(aStack->CanaryDataRight = (aStack->data + aStack->SizeStack + 1) );
+    DEB(aStack->CanaryDataLeft = aStack->data);
+    DEB(++aStack->data);
+    DEB(*aStack->CanaryDataRight = 230);
+    DEB(*aStack->CanaryDataLeft = 230);
+
     aStack->NowElem   = 0;
+
     DEB(aStack->StkHash   = StackHash(aStack));
 
     DEB(ASSERT_OK(aStack, __FILE__, __LINE__, __PRETTY_FUNCTION__));
@@ -282,7 +434,7 @@ void ASSERT_OK(DedStack_t* aStack, std::string NowFile, int Line, std::string Fu
         DUMP(aStack, NowFile, Line, FuncName);
         }
 
-    if(aStack->CanaryDataRight != 230 || aStack->CanaryDataLeft != 230)
+    if(*aStack->CanaryDataRight != 230 || *aStack->CanaryDataLeft != 230)
         {
         aStack->Err = 4;
         DUMP(aStack, NowFile, Line, FuncName);
@@ -384,7 +536,6 @@ void StuckDestruck(DedStack_t* aStack)
         PopStack(aStack);
         DEB(ASSERT_OK(aStack, __FILE__, __LINE__, __PRETTY_FUNCTION__));
         }
-
     return;
     }
 
@@ -393,7 +544,16 @@ void StuckDestruck(DedStack_t* aStack)
         DEB(ASSERT_OK(aStack, __FILE__, __LINE__, __PRETTY_FUNCTION__));
 
         aStack->SizeStack *= ReallocConst;
-        aStack->data = (StackElem_t*) realloc(aStack->data, sizeof(StackElem_t) * aStack->SizeStack);
+
+        #ifdef _DEBUG
+            aStack->data = (StackElem_t*) realloc(--aStack->data, sizeof(StackElem_t) * (aStack->SizeStack + 2));
+        #else
+            aStack->data = (StackElem_t*) realloc(aStack->data, sizeof(StackElem_t) * aStack->SizeStack);
+        #endif
+        DEB(++aStack->data);
+        DEB(aStack->CanaryDataRight = aStack->data + aStack->SizeStack);
+        DEB(*aStack->CanaryDataRight = 230);
+
         if(aStack->data == NULL)
             {
             aStack->Err = 1;
@@ -414,7 +574,15 @@ bool NormalizeSize(DedStack_t* aStack)
     DEB(ASSERT_OK(aStack, __FILE__, __LINE__, __PRETTY_FUNCTION__));
 
     aStack->SizeStack -= SizeDecreeseConst;
-    aStack->data = (StackElem_t*) realloc(aStack->data, sizeof(StackElem_t) * aStack->SizeStack);
+
+    #ifdef _DEBUG
+        aStack->data = (StackElem_t*) realloc(--aStack->data, sizeof(StackElem_t) * (aStack->SizeStack + 2));
+    #else
+        aStack->data = (StackElem_t*) realloc(aStack->data, sizeof(StackElem_t) * aStack->SizeStack);
+    #endif
+    DEB(++aStack->data);
+    DEB(aStack->CanaryDataRight = aStack->data + aStack->SizeStack);
+    DEB(*aStack->CanaryDataRight = 230);
 
     if(aStack->data == NULL)
         {
