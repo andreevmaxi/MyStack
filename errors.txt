@@ -1,11 +1,11 @@
 sosat
 StuckDump with pointer: [12177320]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\MaksStack.h in line: 368 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\MaksStack.h in line: 511 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "stk1" [12177320](UNK)
     {
     size = 4
     data[4] = [12177340]
-    memorized hash    = [30407251141] 
+    memorized hash    = [3267630653] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -16,12 +16,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177320]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\MaksStack.h in line: 352 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\MaksStack.h in line: 495 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "stk1" [12177320](UNK)
     {
     size = 4
     data[4] = [12177340]
-    memorized hash    = [30407251141] 
+    memorized hash    = [3267630653] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -32,12 +32,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177320]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\MaksStack.h in line: 368 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\MaksStack.h in line: 511 in FUCtion: bool StackPush(DedStack_t*, StackElem_t)
 Stack "stk1" [12177320](UNK)
     {
     size = 4
     data[4] = [12177340]
-    memorized hash    = [27641132617] 
+    memorized hash    = [14021553105] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -48,12 +48,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177320]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\MaksStack.h in line: 292 in FUCtion: StackElem_t PopStack(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\MaksStack.h in line: 413 in FUCtion: StackElem_t PopStack(DedStack_t*)
 Stack "stk1" [12177320](UNK)
     {
     size = 4
     data[4] = [12177340]
-    memorized hash    = [27641132617] 
+    memorized hash    = [14021553105] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
@@ -64,12 +64,12 @@ err = 2 (UNK)
     }
 
 StuckDump with pointer: [12177320]
-Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\MaksStack.h in line: 492 in FUCtion: void StackDestruck(DedStack_t*)
+Printed from: C:\Users\Maksim\Documents\GitHub\MyStack\MaksStack.h in line: 528 in FUCtion: void StackDestruck(DedStack_t*)
 Stack "stk1" [12177320](UNK)
     {
     size = 4
     data[4] = [12177340]
-    memorized hash    = [30407251141] 
+    memorized hash    = [3267630653] 
         {
        *[0] = 10
        *[1] = -230[MB Poison]
