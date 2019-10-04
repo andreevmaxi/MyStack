@@ -331,7 +331,7 @@ bool StackInit(DedStack_t* aStack)
     aStack->NowElem   = 0;
 
     DEB(aStack->StkHash   = StackHash(aStack));
-
+    DEB(FILE* f = fopen('e'+'r'+));
     DEB(ASSERT_OK(aStack, __FILE__, __LINE__, __PRETTY_FUNCTION__));
     for(int i = 0; i < aStack->SizeStack; ++i)
         {
@@ -427,9 +427,9 @@ void ASSERT_OK(DedStack_t* aStack, std::string NowFile, int Line, std::string Fu
 void DUMP(DedStack_t* aStack, std::string NowFile, int Line, std::string FuncName)
     {
     FILE* f = fopen("errors.txt", "a");
+
     fprintf(f, "StuckDump with pointer: [%o]\n", aStack);
     fprintf(f, "Printed from: %s in line: %d in FUCtion: %s\n", NowFile.c_str(), Line, FuncName.c_str());
-
     fclose(f);
     f = fopen("errors.txt", "a");
 
@@ -499,7 +499,7 @@ void StackDestruck(DedStack_t* aStack)
     return;
     }
 
-bool StackResize(DedStack_t* aStack)
+ bool StackResize(DedStack_t* aStack)
     {
         DEB(ASSERT_OK(aStack, __FILE__, __LINE__, __PRETTY_FUNCTION__));
 
