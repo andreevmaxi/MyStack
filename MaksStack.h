@@ -151,7 +151,7 @@ StackElem_t PopStack(DedStack_t* aStack);
     \param[in] aStack pointer on dStack with that we work
 */
 
-void StuckDestruck(DedStack_t* aStack);
+void StackDestruck(DedStack_t* aStack);
 
 /**
     \brief StackResize
@@ -488,7 +488,7 @@ void DUMP(DedStack_t* aStack, std::string NowFile, int Line, std::string FuncNam
     return;
     }
 
-void StuckDestruck(DedStack_t* aStack)
+void StackDestruck(DedStack_t* aStack)
     {
     DEB(ASSERT_OK(aStack, __FILE__, __LINE__, __PRETTY_FUNCTION__));
 
